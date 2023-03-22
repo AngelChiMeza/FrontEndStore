@@ -122,9 +122,9 @@ h3 {
 .producto__imagen {
     width: 100%;
 }
-.producto__informacion {
+/* .producto__informacion {
 
-}
+} */
 .producto__nombre {
 font-size: 4rem;
 }
@@ -175,9 +175,9 @@ font-size: 4rem;
     }
 }
 
-.nosotros__contenido {
+/* .nosotros__contenido {
 
-}
+} */
 .nosotros__imagen {
     grid-row: 1 / 2;
     width: 100%;
